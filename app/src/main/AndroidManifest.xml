@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".connect_bank_onboarding"></activity>
+        <activity android:name=".welcome_screen"></activity>
+        <activity android:name=".addnewaccount_two" />
+        <activity android:name=".addnewaccount_one" />
+        <activity android:name=".connect_bank_onboarding" />
         <activity android:name=".devise_code_1" />
         <activity android:name=".first_name" />
         <activity android:name=".otp" />

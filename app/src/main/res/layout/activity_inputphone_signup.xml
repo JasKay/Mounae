@@ -7,15 +7,15 @@
     tools:context=".inputphone_signup">
 
     <ImageView
-        android:layout_width="408dp"
-        android:layout_height="728dp"
-        android:background="@drawable/ic_input_phone_sign_up"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+    android:layout_width="408dp"
+    android:layout_height="728dp"
+    android:background="@drawable/ic_input_phone_sign_up"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent">
 
-    </ImageView>
+</ImageView>
 
     <Button
         android:id="@+id/gotootp"
